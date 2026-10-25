@@ -4,6 +4,10 @@ A MATLAB App Designer project for calculating and visualizing transformer perfor
 
 The app uses a simplified transformer model to calculate secondary voltage, current, output power, copper loss, core loss, and efficiency.
 
+## Preview
+
+![Transformer Load and Efficiency Explorer](app_preview.png)
+
 ### Features
 Adjustable primary voltage, turns ratio, and rated apparent power.
 
