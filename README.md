@@ -26,6 +26,8 @@ Efficiency vs. load.
 Input validation for invalid values.
 
 ### Project files
-- transformerApp.mlapp — Main App Designer project
-- TransformerMath.m — Original MATLAB calculations
-- transformerApp.mltbx — Installable app package, available under Releases
+transformerApp.mlapp - Main App Designer project
+
+TransformerMath.m - Original MATLAB calculations
+
+transformerApp.mltbx - Installable app package, available under Releases
